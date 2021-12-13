@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pinterest/static/css/main.8ac775a4.chunk.css",
+    "main.js": "/pinterest/static/js/main.b774e998.chunk.js",
+    "main.js.map": "/pinterest/static/js/main.b774e998.chunk.js.map",
+    "runtime-main.js": "/pinterest/static/js/runtime-main.11fda4a0.js",
+    "runtime-main.js.map": "/pinterest/static/js/runtime-main.11fda4a0.js.map",
+    "static/js/2.50ad10d4.chunk.js": "/pinterest/static/js/2.50ad10d4.chunk.js",
+    "static/js/2.50ad10d4.chunk.js.map": "/pinterest/static/js/2.50ad10d4.chunk.js.map",
+    "static/js/3.960a7b28.chunk.js": "/pinterest/static/js/3.960a7b28.chunk.js",
+    "static/js/3.960a7b28.chunk.js.map": "/pinterest/static/js/3.960a7b28.chunk.js.map",
+    "index.html": "/pinterest/index.html",
+    "static/css/main.8ac775a4.chunk.css.map": "/pinterest/static/css/main.8ac775a4.chunk.css.map",
+    "static/js/2.50ad10d4.chunk.js.LICENSE.txt": "/pinterest/static/js/2.50ad10d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11fda4a0.js",
+    "static/js/2.50ad10d4.chunk.js",
+    "static/css/main.8ac775a4.chunk.css",
+    "static/js/main.b774e998.chunk.js"
+  ]
+}
